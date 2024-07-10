@@ -20,12 +20,12 @@ export const Contact = () => {
                         <div className="contact-detail">
                             <img src={mail_icon} alt='png' /><p>vr772107@gmail.com</p>
                         </div>
-                       {/*<div className="contact-detail">
+                       <div className="contact-detail">
                             <img src={phone_icon} alt='png' /><p>8219198229</p>
                         </div>
                           <div className="contact-detail">
                             <img src={location_icon} alt='png' /><p>Dharamshala,Himachal Pradesh, India</p>
-                        </div> */}
+                        </div> 
                     </div>
                 </div>
                 
